@@ -1,4 +1,6 @@
 # Dynamics_In_Neuro_Lectures_2021
+[![DOI](https://zenodo.org/badge/362887606.svg)](https://zenodo.org/badge/latestdoi/362887606)
+
 A set of lectures I gave for Chris Rozell's "Information Processing Models in Neural Systems" course at Georgia Insitute of Technology
 
 [Lecture A - Neural Dynamics](https://docs.google.com/presentation/d/1ULkdGC8RVYQXz5wLNC_wh6GgBAbjukjERBE32nOsNzM/edit?usp=sharing)
