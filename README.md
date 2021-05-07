@@ -12,3 +12,5 @@ This lecture involves an interactive demo of how eigenvalues govern the behavior
 [Lecture C - Motor & Feedback Control](https://docs.google.com/presentation/d/1UmsEqesjcPD8WJH6kmkabGa2TED0MfziqmhlexpLlsE/edit?usp=sharing)
 
 [Lecture D - Recurrent Neural Networks](https://docs.google.com/presentation/d/1HNpeTMkvUsBZubTg0YIa9kBxM2uJ5Iprii4HxZJh5g0/edit?usp=sharing)
+
+![](https://github.com/awillats/Dynamics_In_Neuro_Lectures_2021/blob/main/imgs/ComputationThroughDynamics.png)
